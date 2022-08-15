@@ -26,7 +26,6 @@ void print(int** edges,int n,int current,bool* visited)
 			}
 		}
 	}
-	cout<<endl;
 }
 
 void print(int** edges,int n)
